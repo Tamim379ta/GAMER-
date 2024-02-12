@@ -1,0 +1,525 @@
+.nav{
+    display: flex;
+    padding: 25px 100px;
+    background-color: #FFFFFF;
+}
+.img{
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.title{
+    display: flex;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.g{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF0000;
+}
+.amer{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.ul{
+    display: flex;
+}
+.ul1{
+    display: flex;
+}
+.Au{
+    margin-top: 20px;
+    margin-left: 400px;
+    list-style: none;
+}
+.Au1{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.De{
+    margin-top: 20px;
+    margin-left: 10px;
+    list-style: none;
+}
+.De1{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.Fuo{
+    margin-top: 38px;
+    margin-left: 20px;
+    list-style: none;
+}
+.Fuo1{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.banner{
+    display: flex ;
+    background-color: #FBF6FD;
+}
+.banner-text{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.play{
+    font-size: 32px;
+    font-weight: 700;
+    padding: 0px;
+}
+.goat{
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DAA520;
+    font-weight: 900;
+    padding: 0px;
+}
+.sine-in{
+    display: inline-block;
+    background: rgb(145, 24, 24);
+    color: #fff;
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    font-weight: 500;
+    transition: 0.5s;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.sine-in:hover{
+    background-color: black;
+}
+.go-rouge{
+    display: inline-block;
+    background: rgb(145, 24, 24);
+    color: #fff;
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    font-weight: 500;
+    transition: 0.5s;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.go-rouge:hover{
+    background-color: black;
+}
+.banner-img{
+    width: 550px;
+    padding-left: 140px;
+}
+.section2{
+    display: flex;
+    background-color: #FBF6FD;
+}
+.image1{
+    width: 750px;
+}
+.text{
+    margin-top: 50px;
+    padding-left: 150px;
+}
+.we{
+    color: #06F2F2;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+}
+.an-int{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+}
+.know-more{
+    display: inline-block;
+    background: red;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: 1px solid transparent;
+    font-weight: 500;
+    transition: 0.5s;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.know-more:hover{
+    background-color: black;
+}
+.our-purpose{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unleash{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-online{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.online{
+    font-size: 45px;
+}
+.a-collection{
+    font-size: 18px;
+}
+.Videos{
+    display: flex;
+}
+.games-video{
+    
+    margin-left: 70px;
+    margin-top: 30px;
+    position: relative;
+}
+.first-pic{
+    width: 230px;
+    text-align: center;
+}
+.second-pic{
+    width: 230px;
+    text-align: center;
+}
+.third-pic{
+    width: 230px;
+    text-align: center;
+}
+.fourth-pic{
+    width: 230px;
+    text-align: center;
+}
+.games-video-on{
+    position: absolute;
+    display: none;
+    width: 100px;
+    margin: 80px;
+    top: 0;
+    text-align: center;
+}
+.games-video:hover .games-video-on{
+    display: block;
+}
+.image-site{
+    display: flex;
+}
+.image-site1{
+    display: flex;
+}
+.image-site1 .big-img{
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 180px;
+}
+.image-site1 .small-img{
+   height: 200px;
+   margin-left: -125px;
+   margin-top: 400px;
+}
+.img-text{
+    margin-left: 40px;
+    margin-top: 200px;
+}
+.p-games{
+    color: aqua;
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin-bottom: -30px;
+}
+.anywhere-time{
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+.PC{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin-bottom: -5px;
+}
+.last-section{
+    background-color: #DE36C2;
+    display: flex;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.last-pic{
+    width: 600px;
+}
+.careers{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 32px;
+    color: white;
+}
+.L-text{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.gamer-is{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    padding-right: 80px;
+    color: white;
+}
+.Multimedia-Artist{
+    color: white;
+    display: flex;
+}
+.careers-add{
+    margin-left: 30px;
+}
+.last-btn{
+display: inline-block;
+background: rgb(20, 90, 90);
+color: #fff;
+padding: 1rem 2rem;
+border: 1px solid transparent;
+transition: 0.5s;
+border-radius: 40px;
+margin-top: 20px;
+margin-bottom: 30px;
+}
+.last-btn:hover{
+    background-color: black;
+}
+.action-game{
+   padding-left: 8px;
+}
+.Action-Game-btn{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 150px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn2{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn2:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn3{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn3:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn4{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn4:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn5{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn5:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn6{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 30px;
+    margin-left: 250px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn6:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn7{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn7:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn8{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn8:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.Action-Game-btn9{
+    background: #E9E3E3;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+    display: flex;
+}
+.Action-Game-btn9:hover{
+    border-color: #FF0000;
+    background-color: #fff;
+}
+.footer{
+    margin-top: 20px;
+    background-color: black;
+}
+.gamer-btn{
+    margin-left: 550px;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+.Gamer-text{
+    padding-left: 8px;
+    font-size: 30px;
+    font-family: serif;
+}
+.Our-Story{
+    margin-left: 300px;
+    color: white;
+    background-color: black;
+    border: 0px;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.Games{
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    background-color: black;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.Web-Games{
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    background-color: black;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.Careers{
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    background-color: black;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.Support{
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    background-color: black;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.My-Account{
+    margin-left: 10px;
+    border: 0px;
+    color: white;
+    background-color: black;
+    font-family: serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.Terms{
+    margin-left: 320px;
+    margin-top: 30px;
+    background-color: black;
+    color: #7B6D6D;
+    border: 0px;
+    font-family: serif;
+    font-size: 20px;
+}
+.Privacy{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: black;
+    color: #7B6D6D;
+    border: 0px;
+    font-family: serif;
+    font-size: 20px;
+}
+.Cookie{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: black;
+    color: #7B6D6D;
+    border: 0px;
+    font-family: serif;
+    font-size: 20px;
+}
+.Privacy-setting{
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: black;
+    color: #7B6D6D;
+    border: 0px;
+    font-family: serif;
+    font-size: 20px;
+}
+.last-text{
+    color: aqua;
+    text-align: center;
+    padding-bottom: 50px;
+}
